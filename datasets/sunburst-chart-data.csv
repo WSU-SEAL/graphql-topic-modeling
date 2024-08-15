@@ -1,0 +1,49 @@
+question_count,subtopic_name,name,category,question_share
+912,API Autogeneration,Microservice API,API Integration,0.028415641
+1136,API Consumption,Microservice API,API Integration,0.035394921
+1088,API Fulfillment,Microservice API,API Integration,0.033899361
+954,API Service,Microservice API,API Integration,0.029724256
+450,Paginated Payload Mgmt,Payload Management,API Integration,0.014020876
+382,Enum Payload Mgmt,Payload Management,API Integration,0.011902165
+356,Mime-type Payload Mgmt,Payload Management,API Integration,0.01109207
+520,Json Payload Mgmt,Payload Management,API Integration,0.016201901
+363,Fragment Payload Mgmt,Payload Management,API Integration,0.011310173
+510,Event Modeling,Pubsub Systems,API Integration,0.015890326
+499,Amazon AppSync Subscription Mgmt,Pubsub Systems,API Integration,0.015547593
+549,Event Caching,Pubsub Systems,API Integration,0.017105468
+469,Subscription Protocol<br> (Websocket),Pubsub Systems,API Integration,0.014612868
+888,Product Selection Queries,Ecommerce Product<br> Management,Client,0.027667861
+854,Product Testing,Ecommerce Product<br> Management,Client,0.026608506
+611,Gatsby HTML<br> Integration,Gatsby,Client,0.019037233
+1340,Gatsby React<br> Integration,Gatsby,Client,0.041751052
+705,Gatsby Images,Gatsby,Client,0.021966038
+923,Gatsby Slugs,Gatsby,Client,0.028758374
+360,State Management,GraphQL Client,Client,0.0112167
+395,Cache Management,GraphQL Client,Client,0.012307213
+392,Apollo Client,GraphQL Client,Client,0.01221374
+598,Authentication Cookie<br> Management,GraphQL Client,Client,0.018632186
+791,Data Submission Queries,Query & Mutation,Client,0.024645583
+1097,Gatsby Prefetching Queries,Query & Mutation,Client,0.034179779
+1476,Data Fetching<br> Queries,Query & Mutation,Client,0.045988472
+860,Deploy Tooling,Development Tooling,Development Tools,0.026795451
+1001,Build Tooling,Development Tooling,Development Tools,0.031188659
+489,Authentication,Security Management,Security,0.015236018
+640,Account Registration,Security Management,Security,0.019940801
+566,Security Session<br> Management,Security Management,Security,0.017635146
+539,Java Object-Relational<br> Mapping,Java Implementation,Server,0.016793893
+632,Java Constructs,Java Implementation,Server,0.019691541
+558,Java Dependency<br> Management,Java Implementation,Server,0.017385886
+651,Java Scalar Data Types,Java Implementation,Server,0.020283533
+1338,Prisma Modeling,GraphQL Modeling,Server,0.041688737
+857,Python Graphene Modeling,GraphQL Modeling,Server,0.026701979
+417,Resolver Datasources,GraphQL Resolvers,Server,0.012992678
+542,Resolver function <br>definitions,GraphQL Resolvers,Server,0.016887366
+489,Schema type Definitions,GraphQL Resolvers,Server,0.015236018
+367,Input Argument<br> Handling,GraphQL Server ,Server,0.011434803
+367,Input Argument<br> Handling,GraphQL Server ,Server,0.011434803
+280,Authentication Context Mgmt,GraphQL Server ,Server,0.0087241
+399,Apollo Server,GraphQL Server ,Server,0.012431843
+437,Server Modeling,GraphQL Server ,Server,0.013615828
+534,Permission Mgmt,GraphQL Server ,Server,0.016638106
+900,Prisma Deployment,Prisma,Server,0.028041751
+981,Prisma Generation,Prisma,Server,0.030565509
